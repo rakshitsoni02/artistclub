@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    artist-overview section-->
+    <string name="search_artist_hint">Search artist</string>
+    <string name="search_schedule_no_results">No results found :(</string>
+    <string name="search_artist_country">Country: %s</string>
+
+    <string name="album_release">Releases: %d</string>
+
+    <string name="no_key_placeholder">Not Available</string>
+    <string name="article_score">Score: %d</string>
+
+</resources>

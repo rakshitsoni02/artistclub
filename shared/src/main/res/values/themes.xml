@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorSecondary">?attr/colorPrimary</item>
+        <item name="colorOnSecondary">@color/color_on_secondary</item>
+
+        <!-- Window decor -->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+        <item name="android:navigationBarColor">@color/nav_bar_scrim</item>
+    </style>
+
+    <style name="ThemeOverlay.Dice.Light" parent="ThemeOverlay.MaterialComponents.Light">
+        <item name="colorPrimary">@color/deep_grass_green</item>
+        <item name="colorPrimaryVariant">@color/glowing_green</item>
+    </style>
+
+    <style name="ThemeOverlay.Dice.Dark" parent="ThemeOverlay.MaterialComponents.Dark">
+        <item name="colorPrimary">@color/carolina_blue</item>
+        <item name="colorPrimaryVariant">@color/cornflower_blue</item>
+    </style>
+
+    <style name="AppTheme" parent="Base.AppTheme" />
+
+
+</resources>

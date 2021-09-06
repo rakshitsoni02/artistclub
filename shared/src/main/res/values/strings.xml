@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ArtistHub</string>
+    <string name="api_error_label">Something went wrong ¯\_(ツ)_/¯</string>
+    <string name="api_no_data">No Items Available, Come back later :D</string>
+    <string name="no_key_placeholder">Not Available</string>
+</resources>

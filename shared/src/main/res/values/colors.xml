@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">@color/deep_grass_green</color>
+    <color name="color_primary_variant">@color/glowing_green</color>
+    <color name="color_on_secondary">@color/white</color>
+
+    <color name="color_control_light">#39000000</color> <!-- Same as textColorPrimary disabled -->
+    <color name="color_surface_secondary">#F8F9FA</color> <!-- Same as textColorPrimary disabled -->
+
+    <!-- Scrim colors -->
+    <color name="system_ui_scrim_light">#B3FFFFFF</color> <!-- 70% white -->
+    <color name="system_ui_scrim_black">#40000000</color> <!-- 25% black -->
+
+    <!-- We use a dark scrim by default since light status is API 23+ -->
+    <color name="status_bar_scrim">@color/system_ui_scrim_black</color>
+    <!-- We use a dark scrim by default since light nav bar is API 27+ -->
+    <color name="nav_bar_scrim">@color/system_ui_scrim_black</color>
+
+    <color name="deep_grass_green">#1eb500</color> <!-- colorPrimary in Light mode-->
+    <color name="glowing_green">#c0e831</color> <!-- colorPrimaryVariant in Light mode-->
+    <color name="carolina_blue">#8ab4f8</color> <!-- colorPrimary in Dark mode-->
+    <color name="cornflower_blue">#669DF6</color> <!-- colorPrimaryVariant in Dark mode-->
+
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="transparent">#0fff</color>
+</resources>

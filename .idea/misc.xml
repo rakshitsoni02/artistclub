@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_placeholder_loading_123_123.xml" value="0.5083333333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.5515625" />
+        <entry key="app/src/main/res/layout/auth_authentication_activity.xml" value="0.2745694022289767" />
+        <entry key="app/src/main/res/layout/auth_password_login_fragment.xml" value="0.2745694022289767" />
+        <entry key="app/src/main/res/layout/order_overview_item.xml" value="0.334375" />
+        <entry key="app/src/main/res/layout/product_overview_item.xml" value="0.5515625" />
+        <entry key="app/src/main/res/layout/product_overview_listing_fragment.xml" value="0.5515625" />
+        <entry key="feature-artist-overview/src/main/res/drawable/bg_product_item.xml" value="0.5083333333333333" />
+        <entry key="feature-artist-overview/src/main/res/drawable/ic_album_24x24.xml" value="0.362962962962963" />
+        <entry key="feature-artist-overview/src/main/res/drawable/ic_create_order_24.xml" value="0.362962962962963" />
+        <entry key="feature-artist-overview/src/main/res/drawable/ic_no_data_512x512.xml" value="0.5807291666666666" />
+        <entry key="feature-artist-overview/src/main/res/drawable/ic_order_list_24.xml" value="0.362962962962963" />
+        <entry key="feature-artist-overview/src/main/res/drawable/ic_placeholder_avatar.xml" value="0.37037037037037035" />
+        <entry key="feature-artist-overview/src/main/res/drawable/ic_placeholder_loading_123_123.xml" value="0.362962962962963" />
+        <entry key="feature-artist-overview/src/main/res/layout/album_overview_item.xml" value="0.25" />
+        <entry key="feature-artist-overview/src/main/res/layout/artist_details_fragment.xml" value="0.22" />
+        <entry key="feature-artist-overview/src/main/res/layout/artist_overciew_item.xml" value="0.4236453201970443" />
+        <entry key="feature-artist-overview/src/main/res/layout/artist_overview_fragment.xml" value="0.25" />
+        <entry key="feature-artist-overview/src/main/res/layout/artist_overview_fragment_.xml" value="0.5645833333333333" />
+        <entry key="feature-artist-overview/src/main/res/layout/artist_overview_item.xml" value="0.5645833333333333" />
+        <entry key="feature-artist-overview/src/main/res/layout/c_empty_layout.xml" value="0.334375" />
+        <entry key="feature-artist-overview/src/main/res/layout/c_toolbar_layout.xml" value="0.5515625" />
+        <entry key="feature-artist-overview/src/main/res/layout/layout_progress_bar.xml" value="0.5645833333333333" />
+        <entry key="feature-artist-overview/src/main/res/layout/product_overview_item.xml" value="0.334375" />
+        <entry key="feature-artist-overview/src/main/res/layout/product_overview_listing_fragment.xml" value="0.281661600810537" />
+        <entry key="feature-artist-overview/src/main/res/layout/test.xml" value="0.18" />
+        <entry key="shared/src/main/res/drawable/ic_back_arrow.xml" value="0.36574074074074076" />
+        <entry key="shared/src/main/res/drawable/ic_no_data_40x40.xml" value="0.36574074074074076" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

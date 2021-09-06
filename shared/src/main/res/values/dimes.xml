@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    general dimen-->
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_micro">4dp</dimen>
+
+    <dimen name="progress_bar_margin">12dp</dimen>
+    <dimen name="text_size_h1">22sp</dimen>
+    <dimen name="text_size_h2">20sp</dimen>
+    <dimen name="text_size_h3">18sp</dimen>
+
+
+    <dimen name="artist_icon_size">40dp</dimen>
+    <dimen name="progress_size">32dp</dimen>
+</resources>
